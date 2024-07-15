@@ -1,4 +1,4 @@
-## Hello World, i'a Manoel Neto
+## Hello World, i'am Manoel Neto
 
 <a href="mailto:manoelantonio8105@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
