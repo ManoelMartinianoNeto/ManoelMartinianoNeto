@@ -6,5 +6,4 @@
 
 ## Ferramentas e Tecnologias
 
-<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">
-                
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Workbench" width="70" height="70"/>
